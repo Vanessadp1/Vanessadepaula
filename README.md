@@ -1,6 +1,6 @@
 Olá eu sou Vanessa De Paula.
 
-📚hoje estudo Desenvolvimento web, font-end.
+📚Desenvolvedora C#.
 
 <div align="center">
   <a href="https://github.com/vanessadp1">
